@@ -1,1 +1,1 @@
-# central-config-repo
+# config-repo
